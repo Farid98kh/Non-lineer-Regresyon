@@ -1,0 +1,1 @@
+# Non-lineer-Regresyon
